@@ -38,7 +38,7 @@ source flask/bin/activate
 python CryptoAPI.py
 ```
 
-The API will now be callable from "serverip:5000//API/Get_last_values"
+The API will now be callable from "serverip:5000/API/Get_last_values"
 
 # Note
 
