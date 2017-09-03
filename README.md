@@ -38,3 +38,8 @@ source flask/bin/activate
 python CryptoAPI.py
 ```
 
+The API will now be callable from "serverip:5000//API/Get_last_values"
+
+# Note
+
+The current API only returns the last price value stored but future iterations will allow the user to see any stored record between certain date ranges.
