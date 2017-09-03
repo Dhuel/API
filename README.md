@@ -22,5 +22,19 @@ Installing setuptools............................done.
 Installing pip...................done.
 $ flask/bin/pip install flask
 ```
-From here you may use the 
+From here you may use the CryptoAPI.py file to set up your API
+
+Run the following to give the module the correct permissions
+```
+$ chmod a+x CryptoAPI.py
+```
+Then start the API with 
+```
+$ ./CryptoAPI.py
+```
+You may also use the following command to start the virtual env, then run the python module from within it
+```
+source flask/bin/activate
+python CryptoAPI.py
+```
 
