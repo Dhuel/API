@@ -1,5 +1,5 @@
 # API
-Python API to view stock information
+Python generated API which allows user to view specific cryptocurrency information.
 
 # Prerequisites:
 
